@@ -1,4 +1,4 @@
-version := "0.3.1"
+version := "0.3.2"
 
 package:
     wget https://github.com/manojkarthick/reddsaver/releases/download/v{{version}}/reddsaver-macos-amd64 -O reddsaver
